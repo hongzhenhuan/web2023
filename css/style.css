@@ -85,7 +85,7 @@ the layout
 	padding: 10px;
 	width: 780px;
 	background: #fff;
-	border: 10px solid #5c0505;
+	border: 10px solid #64c6de;
 }
 
 #main_title img {
@@ -148,7 +148,7 @@ the layout
 
 #footer {
 	clear: both;
-	background: #eee;
+	background: #7a9ef7;
 	padding: 10px;
 	border-top: 2px solid #ddd;
 	text-align: center;
